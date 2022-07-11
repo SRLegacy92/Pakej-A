@@ -117,7 +117,8 @@ window.location = "https://laksa19.github.io/myqr"
 
 
 
-
+###########
+########################################################## THIEF GO AWAY ################################################################################
 
 
 
@@ -382,10 +383,6 @@ https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3|Referer=https://www.dailymotion.com
 #https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8|Referer=https://www.dailymotion.com
 
-#EXTINF:-1 group-title="MYFREEVIEW" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",103 TV3 Backup
-https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408758887.ts
-
-
 
 #EXTINF:-1 tvg-id="106" group-title="MYFREEVIEW" tvg-logo="https://mediahomes.github.io/logos/tv6.png",106 TV6
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
@@ -473,6 +470,7 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
 
 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cQZdGc0.png" group-title="MOVIES",FilmRise Action
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/playlist.m3u8?p=roku
 
@@ -499,6 +497,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbfeb961
 
 #EXTINF:-1 tvg-id="PlutoTVAction.us" tvg-name="Pluto TV Action 2" tvg-country="US" tvg-language="English" tvg-logo="https://i.ibb.co/vsS3fLn/Pluto-TV-2020-logo.png" tvg-url="" group-title="MOVIES",Pluto TV 3
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d3a31b95267e225e4e09/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+
+
 
 
 #####################################################################################################################################################################################
@@ -544,11 +545,10 @@ https://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000
 
 
 
-
-
 #####################################################################################################################################################################################
 #######################################################################   KIDS   ####################################################################################################
 #####################################################################################################################################################################################
+
 
 
 
@@ -577,14 +577,16 @@ https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RN3wYV1/YDD.png" group-title="KIDS",Baby TV
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/_definst_/tablet500k/chunklist_w702505816.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://3abnkids.tv/img/3ABN-KIDS-LOGO.png" group-title="KIDS",3ABN Kids
-https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+
 
 
 
 #####################################################################################################################################################################################
 ###################################################################  NEWS  ######################################################################################################
 #####################################################################################################################################################################################
+
+
+
 
 
 #EXTINF:-1 tvg-id="123" group-title="NEWS" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",123 Berita RTM
@@ -628,6 +630,8 @@ https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/VsvBUCa.jpg" tvg-country="AU" tvg-url="" group-title="NEWS",Bloomberg TV Australia
 https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8
+
+
 
 
 
