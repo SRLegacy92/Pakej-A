@@ -727,6 +727,16 @@ http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Viu_logo.svg/1200px-Viu_logo.svg.png" tvg-id="CHN" tvg-chno="CHN" group-title="CHINESE",Viu TV
 https://cdn.hkdtmb.com/hls/99/index.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d8cc914692987662d5beeed2a84ecf10&key=1ad7af3abe78cece01e7a772dd88a09b
+#EXTINF:-1 tvg-id="AstroAOD" ch-number="AstroAOD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png" group-title="CHINESE",311 Astro AOD 311 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09db4c1b805ee425c48f2f328e641110&key=280b40db599c53c1620d3fc0e41c7fdd
+#EXTINF:-1 tvg-id="CCTV4" ch-number="CCTV4" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CCTV4_v1.png" group-title="CHINESE",335 CCTV4 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_ott.mpd
+
 
 
 
@@ -746,9 +756,6 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_
 
 #EXTINF:-1 tvg-id="TransTV.id" group-title="INDONESIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/Trans_TV_2013.svg/revision/latest/scale-to-width-down/300?cb=20201220001110",Trans TV (HD)
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
-
-#EXTINF:-1 tvg-id="Bali.id" tvg-name="Bali TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/BaliTV_2014.png/revision/latest/scale-to-width-down/250?cb=20201011002818" group-title="INDONESIA",Bali TV
-https://liveanevia.mncnow.id/live/eds/BaliTV_Timeshift/sa_dash_timeshift/BaliTV_Timeshift.mpd
 
 #EXTINF:-1 tvg-id="TVEdukasi.id" group-title="INDONESIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/TV_Edukasi_2011.png/revision/latest/scale-to-width-down/300?cb=20180920093440",TV Edukasi
 http://118.98.229.118:1935/live/tve.stream/chunklist_w1331085451.m3u8
