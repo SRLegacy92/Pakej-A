@@ -1,5 +1,4 @@
-!DOCTYPE>
-<html><div style="display:none"><script type="text/javascript">
+ <html><div style="display:none"><script type="text/javascript">
 var _qevents = _qevents || [];
 (function() {
 var elem = document.createElement('script');
@@ -17,105 +16,10 @@ qacct:"p-0cfM8Oh7M9bVQ"
 <img src="//pixel.quantserve.com/pixel/p-0cfM8Oh7M9bVQ.gif" border="0" height="1" width="1" alt=""/>
 </noscript></div>
 <head>
-<link rel="icon" type="image/png" href="https://us.123rf.com/450wm/billah9/billah92005/billah9200500222/146159558-initial-monogram-letter-sr-logo-design-vector-template-graphic-alphabet-symbol-for-corporate-busines.jpg?ver=6"/>
-<script type="text/javascript">
-window.location = "https://laksa19.github.io/myqr"
-</script>
+  <meta http-equiv='refresh' content='0; URL=https://cdn1-production-images-kly.akamaized.net/qCwtM6kivygKQ0lO-hs_JlYiVMo=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1248978/original/038280400_1464594800-Maling.jpg'>
 </head>
-<!----><noscript></noscript><script type="text/javascript"></script><textarea style="display:none;"></textarea><style></style><iframe style="display:none;width:0px;height:0px;border:0"></iframe><noframes></noframes><script type="text/javascript" id="xtjs">                (function (){
-
-                    var d, b, ad_pos = false, el_rolling_ads, html, el, el_inner, el_new = '', i = 0;
-
-                    function xt_cache () {
-                        d = document;
-                        b = d.getElementsByTagName('body')[0];
-                        html = d.documentElement;
-                        el = d.getElementById( 'st1645926082' );
-                        el_inner = d.getElementById( 'a1645926082' );
-                        el_rolling_ads = el.getElementsByClassName( 'rolling_ad' );
-                    }
-
-                    xt_cache();
-
-                        if ( el.children[ 0 ] !== el_inner && el.children[ 0 ].tagName == "A" ) {
-
-                            for ( i = 1; i < el.children.length; i++ ) {
-                                el_new += el.children[i].outerHTML;
-                            }
-
-                            el.innerHTML = el_inner.outerHTML.split( '>' )[ 0 ] + '>' + el_new + '</span>';
-
-                            xt_cache();
-                        }
-                        else if ( el.offsetParent === null ) {
-                            b.insertBefore( el, b.firstChild );
-
-                            xt_cache();
-                            ad_pos = true;
-                        }
-
-                        if (d.getElementById('kosmos-banner')) {
-                            ad_pos = true;
-                        }
-
-                        el.style.display="block";
-                        el.style.textAlign="center";
-                        el.style.position="fixed";
-                        if ( ad_pos ) { el.style.top=10+"px"; el.style.bottom='auto'; } else { el.style.bottom=10+"px"; }
-                        el.style.left="0";
-                        el.style.right="0";
-                        el.style.height="1px";
-
-                        var el_imgs = el.getElementsByTagName( 'IMG' );
-                        for (i=0,len=el_imgs.length; i<len; i++) { el_imgs[i].onload = fix_height; }
-
-                        function fix_height () {
-                            el.style.marginBottom = el_inner.offsetHeight+"px";
-                            if ( ad_pos ) {
-                                html.style.paddingTop = el_inner.offsetHeight+9+"px";
-                            } else {
-                                html.style.paddingBottom = el_inner.offsetHeight+9+"px";
-                            }
-                        }
-
-                        setTimeout(function(){fix_height();},200);
-
-                        var closebutton = d.createElement('IMG');
-                            closebutton.src = '//xtgem.com/images/close2.png?v=0.01';
-                            closebutton.alt = '[x]';
-                            closebutton.setAttribute( 'class', '_xt_ad_close' );
-                            closebutton.onclick = function () { closebutton.setAttribute( 'style', 'display: none !important' ); el.style.position = 'static';  closebutton.onclick = null; html.style.paddingBottom = '0'; html.style.paddingTop = '0'; if ( d.getElementById('wr1645926082') ) { d.getElementById('wr1645926082').style.bottom = '0'; } };
-                            el_inner.appendChild(closebutton);
-
-                        // lets roll ads if needed
-                        if ( el_rolling_ads )
-                        {
-                            function roll_ads () {
-                                var i = 0,
-                                    len = el_rolling_ads.length,
-                                    curr_ad,
-                                    next_ad,
-                                    first_ad = el_rolling_ads[ 0 ];
-
-                                for ( ; i < len; i++) {
-                                    curr_ad = el_rolling_ads[ i ];
-                                    next_ad = el_rolling_ads[ i + 1 ] ? el_rolling_ads[ i + 1 ] : first_ad;
-
-                                    if ( curr_ad.className.indexOf( ' roll_on' ) !== -1 ) {
-                                        curr_ad.className = curr_ad.className.replace(' roll_on', '');
-                                        next_ad.className = next_ad.className + ' roll_on';
-                                        break;
-                                    }
-                                }
-                                setTimeout(roll_ads, 3500);
-                            }
-                            roll_ads();
-                        }
-                }());</script></html>
 
 <noscript>
-
-
 
 ########################################################## THIEF GO AWAY ################################################################################
 
@@ -507,14 +411,11 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8?id=
 #https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=2
 
-#EXTINF:-1 group-title="MYFREEVIEW" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",103 TV3
-https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3
-#https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8|Referer=https://www.dailymotion.com
-
+#EXTINF:-1 group-title="MYFREEVIEW" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",103 TV3  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
-#EXTINF:-1 tvg-id="103" tvg-name="TV3" group-title="MYFREEVIEW" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",103 TV3 ALT
+#KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
+
 
 
 
@@ -594,10 +495,9 @@ https://agsplayback01.astro.com.my/CH1/master_GOSHOP_04.m3u8
 https://agsplayback01.astro.com.my/CH3/master_GOSHOP3_04.m3u8
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09891197fd467008f73b1fe18bfed710&key=fa752673e5da5541a796569371788dea
+
 #EXTINF:-1 tvg-id="AstroAwani" ch-number:"AstroAwani" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/84_144.png",501 Astro Awani 
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream04/streamPlaylist.m3u8
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=YWQyZGI1NzMtYjE5Mi0zY2QxLThkZTAtZjNjMDQ4NGUyYWEz
