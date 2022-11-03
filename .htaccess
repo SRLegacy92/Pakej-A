@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Password Protected Area"
+AuthUserFile https://raw.githubusercontent.com/SRLegacy92/Pakej-A/main/Pakej%20A.htpassword
+Require valid-user
