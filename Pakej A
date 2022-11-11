@@ -682,8 +682,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d3a31
 
 
 
-#EXTINF:-1 tvg-id="709" group-title="DOCUMENTARY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png",Asian Food Network
-https://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b1200000.m3u8
+
 
 #EXTINF:-1 tvg-id="Love Nature" group-title="DOCUMENTARY" tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/01/love-nature_transparent-300x200.png" ch-number="",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8?checkedby:iptvcat.com
@@ -814,10 +813,6 @@ https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-
 #EXTINF:-1 tvg-id="" tvg-name="Movie Sphere" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/4f41754c25e159dfb8bae8d9e6101bad/images/titan/assets/aHR0cHM6Ly9tb3ZpZXNwaGVyZS5zMy11cy13ZXN0LTEuYW1hem9uYXdzLmNvbS9Nc3BoZXJlX1RodW1ibmFpbF8xOTIweDEwODAuanBn.jpg" group-title="ENTERTAINMENT",Movie Sphere
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=835f1c94b9a333eea1e7bb78b0a79010:57f68cdc4023fc8511dc1ea6b5502a1c
-#EXTINF:-1 tvg-id="718" tvg-name="MTV Asia HD" group-title="ENTERTAINMENT" tvg-logo="https://iili.io/1NopIe.png",718 MTV Asia 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default.mpd
 
 
 
@@ -831,18 +826,21 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default.mpd
 
 
 
-#EXTINF:-1 group-title="KOREA" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/202109/20210930/20210930172146349qec.png",463 ARIRANG TV
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=76ac661111eadf6ffde0dcdbd16fcb10:24b391c868de298804403a024e6ce7de
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6txiarlZJV96uIHAPTBv4g", "kid":"aSlQ05hpySr5qd3qRTwNEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="392" tvg-name="KBS World HD" group-title="KOREA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/161_144.png",392 KBS World 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b732fb1488c37774919ae7b4ab0f8010:62d4fdbfee0f22b6b0aaa6db9f8410c6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"f15saWmN3vy3RVNDGyscmA", "kid":"lC7BViA7Ksod3zSY9mPBEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="TLC" ch-number="TLC" group-title="KOREA" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/tlc-logo.jpg",396 TLC 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default.mpd
+
 
 
 
@@ -892,13 +890,11 @@ http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8cc914692987662d5beeed2a84ecf10:1ad7af3abe78cece01e7a772dd88a09b
-#EXTINF:-1 tvg-id="311" tvg-name="Astro AOD HD 311" group-title="CHINESE" tvg-logo="https://iili.io/1OtOw7.png",311 Astrox AOD 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09db4c1b805ee425c48f2f328e641110:280b40db599c53c1620d3fc0e41c7fdd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hCVpDEhE+7AbXq5wa8L3xg", "kid":"2xozj3HUAYb1mXywhbs/EA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="335" tvg-name="CCTV4 HD" group-title="CHINESE" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CCTV4_v1.png",335 CCTV4 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_ott.mpd
 
